@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I'm currently working on freelance project using dart<br>👯 I'm looking to collaborate on team  maraging Mobile Application with Ai<br>🤝 I'm looking for help with found on professional team looking to make the world a better place<br>🌱 I'm currently learning kotlin programming language<br>💬 Ask me about dart, flutter framework  and machine learning<br>⚡ Fun fact when I was young I didn't like math but now the field I like most is machine learning
+
+🔭 I'm currently working in Dubai as a Mobile Application Developer, building and maintaining production POS applications used by real businesses.
+
+🤖 I'm passionate about AI-powered products and currently expanding my expertise in LLMs, AI agents, backend development, and intelligent business automation.
+
+👯 I'm looking to collaborate with ambitious teams building scalable mobile applications, AI systems, and innovative SaaS products.
+
+🌱 I'm currently learning Python, FastAPI, LangChain, LangGraph, and modern AI engineering practices while continuing to deepen my expertise in Kotlin and native Android development.
+
+💬 Ask me about Flutter, Dart, Clean Architecture, BLoC, mobile app architecture, API integrations, Android, Kotlin, Firebase, and production application development.
+
+⚡ Fun fact: I'm fascinated by how AI can transform everyday business workflows into smarter, more efficient systems.
 
 
 ## 🌐 Socials:
